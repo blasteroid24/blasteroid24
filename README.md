@@ -2,7 +2,7 @@
 
 <img src="https://res.cloudinary.com/duw6ht4tk/image/upload/q_auto/f_auto/v1775151258/mian_uizkoj.png" alt="Blasteroid24 banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=600&lines=%3E+initiating+neural+link...;%3E+full+stack+architect;%3E+react+%2B+motion+specialist;%3E+currently+building+Doc.ai;%3E+gamer+by+night" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=600&lines=%3E+initiating+neural+link...;%3E+full+stack+architect;%3E+react+%2B+motion+specialist;%3E+currently+building+VitalTest;%3E+gamer+by+night" alt="Typing intro" />
 
 <p>
   <a href="https://www.linkedin.com/in/mehulchauhan23/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4FF" alt="LinkedIn" /></a>
@@ -21,7 +21,7 @@
 handle:   blasteroid24
 role:     Full Stack Architect · UI/UX Specialist
 focus:    React, motion design, and clean, scalable back ends
-status:   shipping Doc.ai
+status:   shipping VitalTest
 off_duty: gaming
 ```
 
@@ -30,7 +30,7 @@ off_duty: gaming
 ## `> current_quest`
 
 > [!NOTE]
-> **Doc.ai** — an AI system that reads blood reports, extracts the health metrics, and charts them over time. Seeing the trend early makes it easier to act before something goes wrong.
+> **VitalTest** — an AI system that reads blood reports, extracts the health metrics, and charts them over time. Seeing the trend early makes it easier to act before something goes wrong.
 
 <br />
 
@@ -57,7 +57,7 @@ off_duty: gaming
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-      <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+      <img src="https://img.shields.io/badge/ker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
       <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
       <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=A259FF" alt="Figma" />
     </td>
