@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://res.cloudinary.com/duw6ht4tk/image/upload/q_auto/f_auto/v1775151258/mian_uizkoj.png" alt="Blasteroid24 banner" width="100%" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF00FF&center=true&vCenter=true&width=600&lines=%3E+initiating+neural+link...;%3E+full+stack+architect;%3E+react+%2B+motion+specialist;%3E+currently+building+VitalTest;%3E+gamer+by+night" alt="Typing intro" />
 
 <p>
